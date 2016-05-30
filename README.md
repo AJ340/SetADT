@@ -1,5 +1,6 @@
 # SetADT
 CSCI 235 - Creates a Set Abstract Data type
+was adapted from preexisting BagADT provided by Hunter College (See BagAdt.zip)
 
 for more information see hw1.pdf
 PDF property of Hunter College
